@@ -1,0 +1,12 @@
+{
+  "name": "telegram-auto-delete-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot to automatically delete join and leave messages.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
